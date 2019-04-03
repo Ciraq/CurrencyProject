@@ -1,0 +1,10 @@
+C:\Users\Chirag\Desktop\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe.config
+C:\Users\Chirag\Desktop\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe
+C:\Users\Chirag\Desktop\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.pdb
+C:\Users\Chirag\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csprojAssemblyReference.cache
+C:\Users\Chirag\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.Form1.resources
+C:\Users\Chirag\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.Properties.Resources.resources
+C:\Users\Chirag\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csproj.GenerateResource.cache
+C:\Users\Chirag\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csproj.CoreCompileInputs.cache
+C:\Users\Chirag\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.exe
+C:\Users\Chirag\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.pdb
